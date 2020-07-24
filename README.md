@@ -23,3 +23,4 @@ You should be able to view the homepage.
 Enter valid ticket description in the input boxe and hit Predict. You should  be able to see the predcited Group Assignment!
 check the output here: http://127.0.0.1:5000/predict
 
+![Sample image](https://github.com/lchimmiri/web-ml-integration/blob/master/example.PNG)
