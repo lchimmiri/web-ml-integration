@@ -3,7 +3,6 @@ from flask import Flask, request, jsonify, render_template
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 from joblib import dump, load
 
-
 app = Flask(__name__)  # Initialize the flask App'))
 
 # open our vectorizer and model with joblib
